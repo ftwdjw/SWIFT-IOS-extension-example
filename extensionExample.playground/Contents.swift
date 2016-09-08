@@ -1,4 +1,5 @@
-//: This IOS playground shows how to make an extension off a Double precsion  number.
+//: This IOS playground shows how to make an extension off a Double precsion number.
+// tested in xcode 8
 
 import UIKit
 
